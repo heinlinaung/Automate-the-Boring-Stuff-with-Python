@@ -3,7 +3,7 @@ My learning progress for https://automatetheboringstuff.com/
 
 
 - [x] Chapter 1 – Python Basics
-- [] Chapter 2 – Flow Control
+- [x] Chapter 2 – Flow Control
 - [] Chapter 3 – Functions
 - [] Chapter 4 – Lists
 - [] Chapter 5 – Dictionaries and Structuring Data
